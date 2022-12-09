@@ -19,4 +19,4 @@ else:
     print('The TOTAL of the five entered numbers is :',sum)
     print('The TOTAL of the five entered numbers is :',sum,file=x) # entering into files
 
-x.close()
+x.close() # closing the file
